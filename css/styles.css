@@ -1,5 +1,22 @@
-p {
-    font-size: 2rem;
-    border: 5px solid black;
-    color: blue;
+.cls-1 {
+    fill: url(#gradient);
+}
+
+h1 {
+   
+ position: fixed; 
+    top: 4rem;
+    left: 6rem;
+    right: 6rem;
+    width: auto;
+    z-index: 999999; 
+    text-align: center;
+
+}
+
+h2.intro {
+    text-align: right;
+}
+p.right {
+    text-align:right;
 }
