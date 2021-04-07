@@ -20,3 +20,14 @@ h2.intro {
 p.right {
     text-align:right;
 }
+
+footer {
+    background-color: black;
+    text-align: center;
+    height: 4rem;
+    width: auto;
+}
+.bottom {
+    color: white;
+    padding-top: 1rem;
+}
