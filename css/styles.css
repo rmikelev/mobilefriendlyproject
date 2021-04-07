@@ -3,9 +3,9 @@
 }
 
 h1 {
-   
+   color: white;
  position: fixed; 
-    top: 4rem;
+    top: 1rem;
     left: 6rem;
     right: 6rem;
     width: auto;
